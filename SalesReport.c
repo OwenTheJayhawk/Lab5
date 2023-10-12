@@ -5,7 +5,7 @@ int main() {
 
 	FILE* file;
 	
-	file = fopen("C:\\Users\\owend\\Downloads\\SalesReport.txt", "r");
+	file = fopen("SalesReport.txt", "r");
 
 	char Report[100];
 
@@ -36,7 +36,7 @@ int main() {
 
 	//////////////////////////////////////////////////////////////////////
 	FILE* file2;
-	file2 = fopen("C:\\Users\\owend\\Downloads\\SalesReport.txt", "r");
+	file2 = fopen("SalesReport.txt", "r");
 
 	char Report2[100];
 	
